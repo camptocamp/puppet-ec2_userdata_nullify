@@ -4,7 +4,7 @@
 ## What does this do?
 
 This Puppet module deploys a Facter plugin that overrides
-the `ec2_userdata` fact with a null value.
+the `ec2_userdata` fact with an empty hash value.
 
 
 ## Why?
